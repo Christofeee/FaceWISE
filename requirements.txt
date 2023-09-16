@@ -1,7 +1,9 @@
-numpy==1.23.0
+numpy
 opencv_python_headless
-Pillow==9.5.0
-Pillow==10.0.1
-streamlit==1.22.0
-tensorflow==2.13.0
-tensorflow_intel==2.13.0
+Pillow
+Pillow
+streamlit
+tensorflow
+tensorflow_intel
+freeglut3-dev
+libgtk2.0-dev
